@@ -1,2 +1,2 @@
-# HTML eJEMPLO 2
+# HTML ejemplo 2
  Ejemplo 2
